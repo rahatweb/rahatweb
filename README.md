@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatweb&theme=radical" alt="rahatweb" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahatweb&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rahatweb&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 [![](https://github-readme-activity-graph.vercel.app/graph?username=rahatweb&theme=dracula)](https://github.com/rahatweb/github-readme-activity-graph)
