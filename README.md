@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatweb&label=Profile%20views&color=0e75b6&style=flat" alt="rahatweb" /> </p>
+<img align="right" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
 - 🌱 I’m currently learning **JavaScript, React**
 
