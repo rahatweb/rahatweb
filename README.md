@@ -21,7 +21,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=rahatweb&show_icons=true&theme=radical)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatweb&show_icons=true&locale=en" alt="rahatweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatweb&" alt="rahatweb" /></p>
 
